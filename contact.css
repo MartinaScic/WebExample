@@ -1,0 +1,13 @@
+body{
+font-size: 22px; 
+}
+
+legend{
+    color: blue; font-size: 30px; font-weight: bold; 
+}
+
+label {color: red;}
+
+.background {
+    background-color: lemonchiffon;
+}
